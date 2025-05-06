@@ -10,7 +10,7 @@ A simple console-based To-Do List application using Object-Oriented Programming 
 
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/your-username/project.git
+   git clone https://github.com/dhairya-ag/project.git
 2. Compile:
    javac *.java
 3. Run:
